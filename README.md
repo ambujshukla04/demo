@@ -1,6 +1,14 @@
-# Face Sentinel - Deep Face Detection System
+# Ambuj - Deep Face Detection System
 
 CNN-based deepfake detection platform with real-time webcam support, face landmarks detection, and comprehensive admin dashboard.
+
+
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/eb2cfb80-782d-49b5-9232-4ff759a03fb0" />
+
+
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/fb8970e0-8591-4337-88b6-928cc42fa411" />
+
+
 
 ## 🚀 Features
 
